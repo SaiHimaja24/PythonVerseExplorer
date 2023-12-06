@@ -14,7 +14,7 @@ I'm Sai Himaja, a passionate backend developer with a knack for transforming dat
 
 🛠️ Tech Arsenal: Python (mastering it!), MongoDB (unleashing its powers), HTML/CSS/JS (sprinkling frontend magic), and a dash of flexibility to embrace new technologies.
 
-🔧 Seeking exciting collaborations and opportunities to code up a storm. Let's turn ideas into innovation! 💡
+🏹🔍 Seeking exciting collaborations and opportunities to code up a storm. Let's turn ideas into innovation! 💡
 
 📫 Let's connect! Reach out for collaboration, discussions, or just to share your favorite coding meme. 🤓
 
@@ -30,4 +30,4 @@ Connect with me on:
 
 🌐 Visit my Portfolio: https://saihimaja24.github.io/HimajaPorftfolio/
 
-Happy Coding! 🚀✨
+Happy Coding! 😄💻
