@@ -1,6 +1,6 @@
 👋 Hey there, Fellow Coders! 
 
-I'm Sai Himaja, a passionate backend developer with a knack for transforming data into meaningful insights using Python and machine learning. 💻
+I'm Sai Himaja, a passionate **backend developer** with a knack for transforming data into meaningful insights using Python and machine learning. 💻
 
 🚀 My journey in the coding cosmos has taken me through the realms of full-stack Python development, where I've crafted compelling solutions and breathed life into startups.
 
