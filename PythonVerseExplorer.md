@@ -19,9 +19,11 @@ I'm Sai Himaja, a passionate backend developer with a knack for transforming dat
 
 Connect with me on:
 
-🔗 [Leetcode] - https://leetcode.com/Himaja24/
+📧 Email: saihimaja248@gmail.com
 
 🔗 [Linkedin] - https://www.linkedin.com/in/saihimaja24/
+
+🔗 [Leetcode] - https://leetcode.com/Himaja24/
 
 🔗 [X] - https://x.com/SaiHimaja2412?t=iiqSwaw3Rfri_bNJmvYENg&s=09
 
